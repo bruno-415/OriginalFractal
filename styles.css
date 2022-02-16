@@ -19,3 +19,7 @@ footer {
 	font-style: italic;
 	font-size: 90%;
 }
+
+*:focus {
+    outline: none;
+}

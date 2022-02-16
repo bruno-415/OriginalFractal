@@ -20,6 +20,6 @@ footer {
 	font-size: 90%;
 }
 
-*:focus {
+input:focus {
     outline: none;
 }
